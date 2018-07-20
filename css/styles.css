@@ -1,0 +1,18 @@
+/*Display Instances keyed in  */
+#show-contact {
+    display: none;
+}
+
+/* Change color of text when cirsor is on top */
+.contact {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+/* Underline style when pointer on top */
+.contact:hover {
+  text-decoration: underline;
+}
+#addresses {
+  color: #0088cc
+}
